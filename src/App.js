@@ -9,7 +9,6 @@ function App() {
       <div className="container my-3" >
         <h1 id="_heading1">Enter your text</h1>
         <Textform lableText="Enter the text to analyze"/>
-        
       </div>
       
     </>
