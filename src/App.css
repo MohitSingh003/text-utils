@@ -39,8 +39,13 @@
 
 .blank{
   color: red;
-}
+} 
 
 *{
   font-family: 'Poppins', sans-serif;
+}
+
+#_heading1{
+  font-weight: 600;
+  color: #3d4046a7
 }
